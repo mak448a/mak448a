@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mak448a
 - 👀 I’m interested in pygame
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my game
 - 📫 How to reach me: You can reach me at mak448a@gmail.com
 
 <!---
