@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mak448a
 - 👀 I’m interested in Python and pygame
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and pygame
 - 📫 How to reach me: You can reach me at mak448a@gmail.com
 
 
