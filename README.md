@@ -1,4 +1,4 @@
-<h1>Hi, I'm @mak448a! 👋👋👋</h1>
+<h1 align="center">Hi, I'm @mak448a! 👋👋👋</h1>
 
 <h3 align="center">I'm just a programmer.</h3>
 
