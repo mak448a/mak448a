@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm @mak448a! 👋👋👋</h1>
 
 <h3 align="center">I'm just a programmer.</h3>
+<h2>Tools I use</h2>
+
+<ul>
+    <li><a href="https://jetbrains.com/pycharm">Pycharm</a></li>
+    <li><a href="https://code.visualstudio.com/">VSCode</a></li>
+    <li><a href="https://getsol.us">Solus Linux</a></li>
+</ul>
+
 
 <h2>Contact me</h2>
 <ul>
