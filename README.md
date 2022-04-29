@@ -2,11 +2,16 @@
 
 <h3 align="center">I'm just a programmer.</h3>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mak448a" alt="Trophy"></a></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=vue" alt="Summary"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mak448a" alt="Stats"></a></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mak448a" alt="Trophy"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a" alt="Top Used Languages"></a></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mak448a" alt="Stats"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a" alt="Top Used Languages"></p>
+
+
+<!-- <p align="center"><img src="" alt=""></p> -->
 
 
 <h2>Tools I use</h2>
@@ -23,8 +28,11 @@
 
 
 <h3>Code Editors</h3>
-<a href="https://jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width=50 alt="Pycharm"></a>
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width=50 alt="VSCode"></a>
+
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <h3>Miscellaneous</h3>
 <a href="https://getsol.us"><img src="https://getsol.us/imgs/solus.png" width=50 alt="Solus Linux"></a>
