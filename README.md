@@ -52,7 +52,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Solus Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <h3>Miscellaneous</h3>
 <a href="https://drive.google.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=50 alt="Google Drive"></a>
