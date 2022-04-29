@@ -1,7 +1,25 @@
 <h1 align="center">Hi, I'm @mak448a! 👋👋👋</h1>
 
 <h3 align="center">I'm just a programmer.</h3>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
+
+![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
+
 <h2>Tools I use</h2>
+
+<h3>Command Line Tools</h3>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<h3>Web Browsers</h3>
+
+![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
+
 
 <h3>Code Editors</h3>
 <a href="https://jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width=50 alt="Pycharm"></a>
