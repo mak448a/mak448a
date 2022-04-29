@@ -2,14 +2,12 @@
 
 <h3 align="center">I'm just a programmer.</h3>
 
-<div align="center">
-    
-    ![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
+![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
 
-    ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
+![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
 
-    ![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
+
 
 <h2>Tools I use</h2>
 
