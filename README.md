@@ -2,11 +2,12 @@
 
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mak448a" alt="stats"></p>
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mak448a" alt="Trophy"></p>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=vue" alt="Summary"></p>
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mak448a" alt="Stats"></p> -->
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a" alt="Top Used Languages"></p> -->
 
