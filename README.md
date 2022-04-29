@@ -14,7 +14,7 @@
 
 <!-- <p align="center"><img src="" alt=""></p> -->
 
-<h2>Languages I know</h2>
+<h2>Languages I use</h2>
 <!-- ![]() -->
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
