@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm @mak448a! 👋👋👋</h1>
 
-<h3 align="center">I'm just a programmer.</h3>
-
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mak448a" alt="Trophy"></p>
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=vue" alt="Summary"></p>
