@@ -14,6 +14,10 @@
 
 <!-- <p align="center"><img src="" alt=""></p> -->
 
+<h2>Languages I know</h2>
+<!-- ![]() -->
+
+
 
 <h2>Tools I use</h2>
 
@@ -36,8 +40,13 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
+<h3>Operating Systems</h3>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Solus Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <h3>Miscellaneous</h3>
-<a href="https://getsol.us"><img src="https://getsol.us/imgs/solus.png" width=50 alt="Solus Linux"></a>
 <a href="https://drive.google.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=50 alt="Google Drive"></a>
 
 
