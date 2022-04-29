@@ -3,11 +3,18 @@
 <h3 align="center">I'm just a programmer.</h3>
 <h2>Tools I use</h2>
 
-<ul>
+
+<a href="https://jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" width=50 alt="Pycharm"></a>
+<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width=50 alt="VSCode"></a>
+<a href="https://getsol.us"><img src="https://getsol.us/imgs/solus.png" width=50 alt="Solus Linux"></a>
+
+
+
+<!-- <ul>
     <li><a href="https://jetbrains.com/pycharm">Pycharm</a></li>
     <li><a href="https://code.visualstudio.com/">VSCode</a></li>
     <li><a href="https://getsol.us">Solus Linux</a></li>
-</ul>
+</ul> -->
 
 
 <h2>Contact me</h2>
