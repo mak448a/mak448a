@@ -2,11 +2,14 @@
 
 <h3 align="center">I'm just a programmer.</h3>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
+<div align="center">
+    
+    ![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
 
-![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
+    ![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
+    ![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
+</div>
 
 <h2>Tools I use</h2>
 
@@ -43,15 +46,6 @@
     <li><a href="mailto:mak448a@gmail.com">Gmail</a></li>
     <li><a href="https://mak448a.github.io/">Website</a></li>
 </ul>
-
-
-
-<!-- - 👋 Hi, I’m @mak448a
-- 👀 I’m interested in Python and pygame
-- 🌱 I’m currently learning python and pygame
-- 📫 How to reach me: You can reach me at mak448a@gmail.com
-- Website - https://mak448a.github.io
- -->
 
 <!-- mak448a/mak448a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
