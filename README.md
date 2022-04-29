@@ -2,11 +2,11 @@
 
 <h3 align="center">I'm just a programmer.</h3>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=mak448a)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mak448a" alt="Trophy"></a></p>
 
-![MostUsedLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mak448a" alt="Stats"></a></p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mak448a)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a" alt="Top Used Languages"></a></p>
 
 
 <h2>Tools I use</h2>
