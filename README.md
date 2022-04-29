@@ -1,7 +1,12 @@
 <h1>Hi, I'm @mak448a! 👋👋👋</h1>
 
 <h3 align="center">I'm just a programmer.</h3>
-<iframe src="https://mak448a.github.io"></iframe>
+
+<h2>Contact me</h2>
+<ul>
+    <li><a href="mailto:mak448a@gmail.com">Gmail</a></li>
+    <li><a href="https://mak448a.github.io/">Website</a></li>
+</ul>
 
 
 
