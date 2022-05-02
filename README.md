@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm @mak448a! 👋👋👋</h1>
 
+<h2 align="center">I'm a programmer who loves to code.</h2>
+
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 
