@@ -69,10 +69,9 @@
 
 
 <h2>Contact me</h2>
-<ul>
-    <li><a href="mailto:mak448a@gmail.com">Gmail</a></li>
-    <li><a href="https://mak448a.github.io/">Website</a></li>
-</ul>
+<a href="mailto:mak448a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+<a href="https://mak448a.github.io/">Website</a>
 
 <!-- mak448a/mak448a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
