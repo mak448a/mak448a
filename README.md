@@ -57,6 +57,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <h3>Miscellaneous</h3>
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+
 <a href="https://drive.google.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=50 alt="Google Drive"></a>
 
 
