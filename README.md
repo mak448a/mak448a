@@ -3,8 +3,6 @@
 I'm a programmer who loves to code.
 I'm currently working on an AI image generator bot. You can find it [here.](https://github.com/mak448a/Stable-Diffusion-Bot)
 
-I'm also working on a game in Godot Engine. You can find it [here.](https://github.com/mak448a/HirokisPoopsGodot)
-
 
 ## Badges
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
