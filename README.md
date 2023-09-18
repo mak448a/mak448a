@@ -1,7 +1,8 @@
 # Hi, I'm mak448a!
 
 I'm a programmer who loves to code.
-I'm currently working on an AI image generator bot. You can find it [here.](https://github.com/mak448a/Stable-Diffusion-Bot)
+- I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
+- I've made an [AI image generator bot integrated with GPT4All](https://github.com/mak448a/AI-Drawing-Chatbot).
 
 
 ## Badges
