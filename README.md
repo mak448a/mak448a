@@ -59,7 +59,7 @@ I'm a programmer who loves to code.
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
 
-<h2>Contact me</h2>
-If you would like to get in touch with me, just open an issue on one of my repositories.
+## Contact me
+If you would like to get in touch with me, send a friend request to `altaccountformy` on Discord.
 
 Here is my <a href="https://mak448a.github.io/">website.</a>
