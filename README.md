@@ -3,6 +3,7 @@
 I'm a teenage programmer who loves to write code, talk about Linux, and AI!
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 - 🖼️ I've made an [AI image generator bot integrated with GPT-3.5](https://github.com/mak448a/AI-Drawing-Chatbot).
+- 🎮 I'm making a game in Godot Engine.
 
 
 ## Badges
