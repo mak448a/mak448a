@@ -10,7 +10,6 @@ I'm a teenage programmer who loves to write code, talk about Linux, and AI!
 ## Badges
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=mak448a&theme=radical" alt="stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a&theme=radical" alt="Top Used Languages">
 <img src="https://github-profile-trophy.vercel.app/?username=mak448a&theme=radical" alt="Trophy">
@@ -40,7 +39,6 @@ I'm a teenage programmer who loves to write code, talk about Linux, and AI!
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
 ### Code Editors
 
