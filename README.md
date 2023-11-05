@@ -1,6 +1,6 @@
 # Hi, I'm mak448a!
 
-I'm a teenage programmer who loves to write code, talk about Linux, and AI!
+I'm a teenage programmer who loves to write code, talk about Linux, and play with AI!
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 - 🖼️ I've made an [AI image generator bot integrated with GPT-3.5](https://github.com/mak448a/AI-Drawing-Chatbot).
 - 🎮 I'm making a game in Godot Engine.
@@ -11,8 +11,8 @@ I'm a teenage programmer who loves to write code, talk about Linux, and AI!
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=mak448a&theme=radical" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a&theme=radical" alt="Top Used Languages">
-<img src="https://github-profile-trophy.vercel.app/?username=mak448a&theme=radical" alt="Trophy">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a&theme=radical" alt="Top Used Languages"> -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mak448a&theme=radical" alt="Trophy"> -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=radical" alt="Summary">
 
 
