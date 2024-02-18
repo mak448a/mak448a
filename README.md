@@ -1,6 +1,6 @@
 # Hi, I'm mak448a!
 
-I'm a teenage programmer who loves to write code, talk about Linux, and play with AI!
+I'm a teenage programmer who loves to write code, use Linux, and play with AI!
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 - 🖼️ I've made an [AI image generator bot integrated with GPT-3.5](https://github.com/mak448a/AI-Drawing-Chatbot).
 - 💬 I'm making a [Discord client written in Python and QT](https://github.com/mak448a/QTCord).
