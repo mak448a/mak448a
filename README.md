@@ -61,6 +61,6 @@ I'm a teenage programmer who loves to write code, use Linux, and play with AI!
 
 
 ## Contact me
-If you would like to get in touch with me, send a friend request to `altaccountformy` on Discord.
+If you would like to get in touch with me, send a friend request to `mak448a` on Discord.
 
 Here is my <a href="https://mak448a.github.io/">website.</a>
