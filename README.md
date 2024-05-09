@@ -1,8 +1,10 @@
 # Hi, I'm mak448a!
+Programmer • Web Developer • Game Developer
+<hr>
 
-I'm a teenage programmer who loves to write code, use Linux, and play with AI!
+<!-- I'm a teenage programmer who loves to write code, use Linux, and play with AI! -->
+- 🌐 I made a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
 - 💬 I'm making a [Discord client written in Python and QT](https://github.com/mak448a/QTCord).
-- 🌐 I have a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
 - 🎮 I'm making a few games in Godot Engine.
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 - 🖼️ I've made an [AI image generator bot integrated with Llama 2](https://github.com/mak448a/AI-Drawing-Chatbot).
@@ -62,6 +64,9 @@ I'm a teenage programmer who loves to write code, use Linux, and play with AI!
 
 
 ## Contact me
-If you would like to get in touch with me, send a friend request to `mak448a` on Discord.
+If you would like to get in touch with me, try one of the options below.
 
-Here is my <a href="https://mak448a.github.io/">website.</a>
+- Send a friend request to `mak448a` on Discord.
+- Send an email to <a href="mailto:mak448a.comfy891@slmail.me">mak448a.comfy891@slmail.me</a>.
+
+Check <a href="https://mak448a.github.io/">my website</a> for more contact information.
