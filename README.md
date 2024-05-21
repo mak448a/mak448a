@@ -7,7 +7,7 @@ Programmer • Web Developer • Game Developer
 - 💬 I'm making a [Discord client written in Python and QT](https://github.com/mak448a/QTCord).
 - 🎮 I'm making a few games in Godot Engine.
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
-- 🖼️ I've made an [AI image generator bot integrated with Llama 2](https://github.com/mak448a/AI-Drawing-Chatbot).
+- 🖼️ I've made an [AI image generator bot integrated with ChatGPT](https://github.com/mak448a/AI-Drawing-Chatbot).
 
 
 ## Badges
