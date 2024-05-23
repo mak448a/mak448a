@@ -9,6 +9,13 @@ Programmer • Web Developer • Game Developer
 - ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 - 🖼️ I've made an [AI image generator bot integrated with ChatGPT](https://github.com/mak448a/AI-Drawing-Chatbot).
 
+## Contact me
+If you would like to get in touch with me, try one of the options below.
+
+- Send a friend request to `mak448a` on Discord.
+- Send an email to <a href="mailto:mak448a.comfy891@slmail.me">mak448a.comfy891@slmail.me</a>.
+
+Check <a href="https://mak448a.github.io/">my website</a> for more contact information.
 
 ## Badges
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -61,12 +68,3 @@ Programmer • Web Developer • Game Developer
 ### Miscellaneous
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-
-
-## Contact me
-If you would like to get in touch with me, try one of the options below.
-
-- Send a friend request to `mak448a` on Discord.
-- Send an email to <a href="mailto:mak448a.comfy891@slmail.me">mak448a.comfy891@slmail.me</a>.
-
-Check <a href="https://mak448a.github.io/">my website</a> for more contact information.
