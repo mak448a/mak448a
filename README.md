@@ -2,12 +2,12 @@
 Programmer • Web Developer • Game Developer
 <hr>
 
-<!-- I'm a teenage programmer who loves to write code, use Linux, and play with AI! -->
+
+- 💬 I made a [Discord client written in Python and QT](https://github.com/mak448a/QTCord) that 1000+ downloads!
 - 🌐 I made a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
-- 💬 I'm making a [Discord client written in Python and QT](https://github.com/mak448a/QTCord).
-- 🖼️ I've made an [AI image generator bot integrated with Llama 3](https://github.com/mak448a/AI-Drawing-Chatbot).
+- 🖼️ I made an [AI image generator bot integrated with Llama 3](https://github.com/mak448a/AI-Drawing-Chatbot).
 - 🎮 I'm making a few games in Godot Engine.
-- ▶️ I've made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
+- ▶️ I made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 
 ## Contact me
 If you would like to get in touch with me, try one of the options below.
