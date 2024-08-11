@@ -3,7 +3,7 @@ Programmer • Web Developer • Game Developer
 <hr>
 
 
-- 💬 I made a [Discord client written in Python and QT](https://github.com/mak448a/QTCord) that has 1000+ downloads!
+- 💬 I made a [Discord client written in Python and QT](https://github.com/mak448a/QTCord) that has 1500+ downloads!
 - 🌐 I made a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
 - 🖼️ I made an [AI image generator bot integrated with Llama 3](https://github.com/mak448a/AI-Drawing-Chatbot).
 - 🎮 I'm making a few games in Godot Engine.
