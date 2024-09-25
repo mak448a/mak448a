@@ -3,10 +3,10 @@ Programmer • Web Developer • Game Developer
 <hr>
 
 
-- 💬 I made a [Discord client with 1700+ downloads!](https://github.com/mak448a/QTCord)
+- 💬 I made a [Discord client with 2000+ downloads!](https://github.com/mak448a/QTCord)
+- 🎮 I'm making indie games in Godot Engine
 - 🌐 I made a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
-- 🖼️ I made an [AI image generator bot integrated with Llama 3](https://github.com/mak448a/AI-Drawing-Chatbot).
-- 🎮 I'm making a few games in Godot Engine.
+- 🖼️ I made an [AI image generator Discord bot](https://github.com/mak448a/AI-Drawing-Chatbot).
 - ▶️ I made a [YouTube downloader GUI](https://github.com/mak448a/YouTube-Downloader-GUI-Python).
 
 ## Contact me
