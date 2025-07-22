@@ -1,5 +1,3 @@
-`Hi, archive.org team, could you remove my profile from the Internet Archive?`
-
 # Hi, I'm mak448a!
 Programmer • Web Developer • Game Developer
 <hr>
