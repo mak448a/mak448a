@@ -10,8 +10,8 @@ Programmer • Web Developer • Game Developer
 ## Contact me
 If you would like to get in touch with me, try one of the options below.
 
-- Send an email to <a href="mailto:mak448a.comfy891@slmail.me">mak448a.comfy891@slmail.me</a>.
-- Join my discord server: [![Discord Invite](https://dcbadge.limes.pink/api/server/https://discord.gg/gV8SjzZAXj?style=flat)](https://discord.gg/gV8SjzZAXj)
+- Send an email to <a href="mailto:mak448a.comfy891@slmail.me">mak448a.comfy891@slmail.me</a>
+- Join my discord server: [![Discord Invite](https://dcbadge.limes.pink/api/server/https://discord.gg/gV8SjzZAXj?style=flat)](https://discord.gg/gV8SjzZAXj) (I don't respond quickly here)
 - Send a friend request to `mak448a` on Discord. (I don't respond quickly here)
 
 Check <a href="https://mak448a.github.io/">my website</a> for more contact information.
