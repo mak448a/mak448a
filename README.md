@@ -20,10 +20,12 @@ Check <a href="https://mak448a.github.io/">my website</a> for more contact infor
 ## Badges
 <!-- Badges for profile: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mak448a&theme=radical" alt="stats">
+<!-- Badges that don't work anymore -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mak448a&theme=radical" alt="stats"> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=radical" alt="Summary"> -->
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak448a&theme=radical" alt="Top Used Languages"> -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=mak448a&theme=radical" alt="Trophy"> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak448a&theme=radical" alt="Summary">
 
 
 <!-- <p align="center"><img src="" alt=""></p> -->
