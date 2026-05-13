@@ -2,10 +2,11 @@
 Programmer • Web Developer • Game Developer
 <hr>
 
+- 👾 I made an [automated solution to build Godot Engine projects without a Mac](https://github.com/mak448a/build-ios)!
 - 💬 I made a [Discord client with 7000+ downloads!](https://github.com/mak448a/Qtcord)
 - 🎮 I'm making indie games in Godot Engine.
 - 🌐 I made a website at [mak448a.is-a.dev](https://mak448a.is-a.dev)!
-- 🖼️ I made an [AI image generator Discord bot](https://github.com/mak448a/AI-Drawing-Chatbot).
+- 🖼️ *(Back when it was cool)* I made an [AI image generator Discord bot with LLM integration](https://github.com/mak448a/AI-Drawing-Chatbot).
 
 ## Contact me
 If you would like to get in touch with me, try one of the options below.
